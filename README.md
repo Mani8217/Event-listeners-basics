@@ -1,4 +1,8 @@
 # Event-listeners-basics
+## project done you can check the page out through this link 👇
+<p align="center">
+https://mani8217.github.io/Event-listeners-basics/
+</p>
 ### Setup
 - We included a html file ready to use. You must not modify it for this exercise.
 - We also included an image that is ready to be used and included in the <img> from the html file.
